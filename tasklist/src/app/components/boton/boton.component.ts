@@ -15,6 +15,7 @@ export class BotonComponent implements OnInit {
 
   ngOnInit(): void {
   }
+
   onClick(){
     this.btnClik.emit();
   }

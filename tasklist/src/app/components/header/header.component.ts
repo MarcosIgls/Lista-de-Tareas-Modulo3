@@ -9,7 +9,7 @@ export class HeaderComponent implements OnInit {
 
   title:string = 'Task List';
   toggleAddTask(){
-    console.log("click")
+    console.log("toggleAddTask")
   }
   constructor() { }
 
