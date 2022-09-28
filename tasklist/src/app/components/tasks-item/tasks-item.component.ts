@@ -9,9 +9,9 @@ import { faTimes } from '@fortawesome/free-solid-svg-icons';
   styleUrls: ['./tasks-item.component.css']
 })
 export class TasksItemComponent implements OnInit {
-
-  @Input() task: task = TASKS[0];
   faTimes = faTimes;
+  @Input() task: task = TASKS[0];
+  
 
 
   constructor() { }
