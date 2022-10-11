@@ -16,13 +16,13 @@
       "id": 3,
       "text": "Investigar sobre Bootstrap",
       "day": "Agosto 5 a las 19:00",
-      "reminder": false
+      "reminder": true
     },
     {
-      "id": 4,
-      "text": "Hacer las compras para la cena",
-      "day": "Agosto 5 a las 20:00",
-      "reminder": false
+      "text": "Nueva Tarea",
+      "day": "mañana",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
